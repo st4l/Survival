@@ -13,14 +13,14 @@ Branches
 --------
 
 - **Versions** -- Released Versions.
-- Development - Master Dev branch.
+- **Development** - Master Dev branch.
 
 Directories
 -----------
 
-- @Shared - Extend an API for @server and @client to consume, contains all player / zombie update and control functions but no data layer.
-- @Client - Minimal code/resources for UI, load screen, hooks.
-- @Server - Database connectivity and cleanup / spawn / management functions.
+- **@Shared** - Extend an API for @server and @client to consume, contains all player / zombie update and control functions but no data layer.
+- **@Client** - Minimal code/resources for UI, load screen, hooks.
+- **@Server** - Database connectivity and cleanup / spawn / management functions.
 
 
 Bugs/Issues
