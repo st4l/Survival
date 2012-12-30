@@ -1,4 +1,4 @@
-Survival is licensed under the MIT License:
+Survival is licensed under the BSD License:
 
 Copyright (c) 2012, Carl(R4Z0R49), Ayan4m1 other contributors:
 All rights reserved.
@@ -8,12 +8,12 @@ link to contributors will go here(needs adding)
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
 
-- * Redistributions of source code must retain the above copyright
+- Redistributions of source code must retain the above copyright
       notice, this list of conditions and the following disclaimer.
-- * Redistributions in binary form must reproduce the above copyright
+- Redistributions in binary form must reproduce the above copyright
       notice, this list of conditions and the following disclaimer in the
       documentation and/or other materials provided with the distribution.
-- * Neither the name of the <organization> nor the
+- Neither the name of the <organization> nor the
       names of its contributors may be used to endorse or promote products
       derived from this software without specific prior written permission.
 
